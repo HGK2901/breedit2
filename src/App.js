@@ -13,7 +13,7 @@ import ChatComponent from "./Components/ChatComponent";
 const App = () => {
   return (
     <Routes>
-      <Route path="/breedit" element={<Home />} />
+      <Route path="/breedit2" element={<Home />} />
       <Route path="/login" element={<Login />} />
       {/* <Route path="/register" element={<Registration />} /> */}
       <Route path="/findPet" element={<FindPet />} />
