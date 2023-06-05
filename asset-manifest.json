@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/breedit2/static/css/main.077a46b1.css",
+    "main.js": "/breedit2/static/js/main.b932a4db.js",
+    "static/media/dog-drawing__1_-removebg-preview.png": "/breedit2/static/media/dog-drawing__1_-removebg-preview.2ade7cd6722b94388e28.png",
+    "static/media/cute-rabbit-illustration-rabbit-kawaii-chibi-drawing-style-rabbit-cartoon-bunny-vector.webp": "/breedit2/static/media/cute-rabbit-illustration-rabbit-kawaii-chibi-drawing-style-rabbit-cartoon-bunny-vector.fcead7e28582de5a397a.webp",
+    "static/media/cute-hamster-illustration-hamster-kawaii-chibi-drawing-style-hamster-cartoon-vector__1_-removebg-preview.png": "/breedit2/static/media/cute-hamster-illustration-hamster-kawaii-chibi-drawing-style-hamster-cartoon-vector__1_-removebg-preview.e971c7ee6e74bb29b67c.png",
+    "static/media/catimages-removebg-preview.png": "/breedit2/static/media/catimages-removebg-preview.a4350fe5977e47a5b3f2.png",
+    "index.html": "/breedit2/index.html",
+    "main.077a46b1.css.map": "/breedit2/static/css/main.077a46b1.css.map",
+    "main.b932a4db.js.map": "/breedit2/static/js/main.b932a4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077a46b1.css",
+    "static/js/main.b932a4db.js"
+  ]
+}
