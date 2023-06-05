@@ -36,7 +36,7 @@ const Navbar = () => {
             <span className="ml-3 text-xl">BREEDIT</span>
           </Link>
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            <Link to="/breedit" className="mr-5 hover:text-gray-900">
+            <Link to="/breedit2" className="mr-5 hover:text-gray-900">
               Home
             </Link>
             <Link to="/findPet" className="mr-5 hover:text-gray-900">
