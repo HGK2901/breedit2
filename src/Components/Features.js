@@ -8,11 +8,11 @@ import { Link } from 'react-router-dom';
 const Features = () => {
   return (
     <>
-        <div className="  rounded-3xl m-10 max-w-[90rem] ">
-        <div classNameName=" m-1 text-center text-3xl text-[#f2ebe9] pt-4 ">
+        {/* <div className="  rounded-3xl m-10 max-w-[90rem] bg-[#917FB3]  ">
+        <div classNameName="  text-center text-3xl text-[#f2ebe9] ">
           CHOOSE YOUR PET
         </div>
-        <div className="flex justify-evenly m-10 pb-10 hover15 cursor-pointer border border-[#E5BEEC] border-r ">
+        <div className="flex justify-evenly m-10 pb-10 hover15 cursor-pointer border border-[#E5BEEC]  rounded-3xl ">
           <figure>
             {" "}
             <img
@@ -45,9 +45,9 @@ const Features = () => {
             />
           </figure>
           </div>
-          </div>
+          </div> */}
 
-          <section className="text-gray-600 body-font">
+          <section className=" body-font text-[#2A2F4F] bg-[#E5BEEC] border-4  border-[#ffff] rounded-full ">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
       <div className="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 flex-shrink-0">
@@ -103,7 +103,7 @@ const Features = () => {
     <button className="flex mx-auto mt-20 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
   </div>
 </section>
-<section className="text-gray-600 body-font">
+<section className="text-[#2A2F4F] body-font border-4 rounded-full border-[#fff] bg-[#E5BEEC]">
   <div className="container px-5 py-24 mx-auto">
     <div className="text-center mb-20">
       <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Raw Denim Heirloom Man Braid</h1>
