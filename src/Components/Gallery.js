@@ -4,7 +4,7 @@ const Gallery = () => {
   return (
     <div>
 
-<section className="text-gray-600 body-font">
+<section className="text-[#2A2F4F] body-font border-4 rounded-full border-[#fff] bg-[#E5BEEC] body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
     <div className="flex w-full mb-20 flex-wrap">
       <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom</h1>
