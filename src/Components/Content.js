@@ -3,7 +3,7 @@ import React from 'react'
 const Content = () => {
   return (
     <div>
-        <section className="text-gray-600 body-font">
+        <section className="text-[#2A2F4F] body-font border-4 rounded-full border-[#fff] bg-[#E5BEEC] body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-wrap w-full mb-20">
       <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
