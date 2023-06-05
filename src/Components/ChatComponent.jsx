@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import Navbar from '../Components/Navbar'
+import Navbar from '../Components/Navbar';
+// import Simple from '../Components/tinderCard'
 
 function ChatComponent() {
   const [messages, setMessages] = useState([]);
@@ -37,7 +38,8 @@ function ChatComponent() {
   return (
     <>  
     <Navbar/>
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+    {/* <Simple /> */}
+    <div className="dashboard min-h-screen flex items-center justify-center bg-gray-100">
       <div className="w-full max-w-md bg-white rounded-lg p-6 shadow-md">
         <h2 className="text-2xl mb-4">Messenger</h2>
         <div className="border border-gray-300 rounded-lg p-4 h-64 overflow-y-scroll">
