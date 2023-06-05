@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Blog = () => {
   return (
     <div>
-        <section className="text-gray-600 body-font">
+        <section className="text-[#2A2F4F] body-font border-4 rounded-full border-[#fff] bg-[#E5BEEC] body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
